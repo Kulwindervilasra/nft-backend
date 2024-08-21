@@ -1,1 +1,1 @@
-declare module 'pinata-sdk' { }; x
+declare module 'pinata-sdk' { };
