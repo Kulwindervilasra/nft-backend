@@ -3,7 +3,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/nft-dapp.git
+   git clone https://github.com/Kulwindervilasra/nft-backend.git
    cd nft-dapp
    ```
 
